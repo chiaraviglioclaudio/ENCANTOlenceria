@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "LESS",
+        "marca": "MK",
+        "precio": 6000.0,
+        "stock": 6,
+        "articulo": ""
+    },
+    {
+        "nombre": "CONJUNTO TRIANGULITO",
+        "marca": "LODY",
+        "precio": 8000.0,
+        "stock": 1,
+        "articulo": ""
+    },
+    {
+        "articulo": "1223",
+        "nombre": "CULOTESS",
+        "marca": "KAURY",
+        "precio": 8900.0,
+        "stock": 4
+    },
+    {
+        "articulo": "1223",
+        "nombre": "CULOTESS",
+        "marca": "KAURY",
+        "precio": 8900.0,
+        "stock": 2
+    },
+    {
+        "articulo": "502",
+        "nombre": "CORPIÑO",
+        "marca": "FRASHE",
+        "precio": 3000.0,
+        "stock": 8
+    },
+    {
+        "articulo": "1",
+        "nombre": "calzoncillo",
+        "marca": "zapanet",
+        "precio": 18000.0,
+        "stock": 4
+    }
+]
